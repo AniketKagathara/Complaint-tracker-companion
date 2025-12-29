@@ -68,7 +68,3 @@ npm run dev
 ![Home Page](screenshots/home.png)
 ![Complaint Form](screenshots/complaint.png)
 ![Admin Dashboard](screenshots/admin.png)
-
-
-# Open project
-cd complaint-tracker-companion
